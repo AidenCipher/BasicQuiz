@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra(Constants.USER_NAME, et_name.text.toString())
                 startActivity(intent)
                 finish()
+                //
             }
         }
     }

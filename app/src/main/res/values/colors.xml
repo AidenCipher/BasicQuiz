@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9013FE</color>
+    <color name="colorPrimaryDark">#6A1B9A</color>
+    <color name="colorAccent">#9013FE</color>
+    <color name="White">#FFFFFF</color>
+    <color name="QuizAppColor">#20B2AA</color>
+    <color name="CardColor">#F0FFF0</color>
+    <color name="OptionsColor">#AFEEEE</color>
+</resources>
